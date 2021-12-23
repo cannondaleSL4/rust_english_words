@@ -1,5 +1,5 @@
 mod files;
 
 fn main() {
-    files::read_words();
+    files::read_file();
 }
